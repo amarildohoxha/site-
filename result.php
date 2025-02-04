@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--code by webdevtrick (webdevtrick.com) -->
 <html>
 
 <head>
